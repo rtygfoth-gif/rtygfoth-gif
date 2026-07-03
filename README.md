@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="90" alt="About Me GIF" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20MD%20Sowrov%20Miah" alt="Typing SVG" />
-
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20MD%20Sowrov%20Miah" alt="Typing SVG" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=ff2df7&style=flat" alt="profile views" />
 </div>
 ---
