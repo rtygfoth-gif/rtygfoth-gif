@@ -3,8 +3,9 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1200&pause=2500&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20MD%20Sowrov%20Miah" alt="Typing SVG" />
   <br>
-  💻 Passionate about <b>Software Development</b> | 🛡️ Enthusiast of <b>Cybersecurity</b> | 🌟 Creator of <b>Impactful Tech</b>
-  <br> <br>
+ <p>
+  🎓 <b>Passionate CSE Student</b> | 👨‍💻 <b>Future Software Engineer</b> | ⚡ <b>Tech Explorer</b>
+</p> <br> <br>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://facebook.com/your-facebook-link"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="https://wa.me/8801XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://github.com/rtygfoth-gif"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 ---
