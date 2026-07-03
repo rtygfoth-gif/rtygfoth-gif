@@ -7,7 +7,6 @@
     <b>Passionate CSE Student</b> | <b>Future Engineer</b> | <b>Tech Explorer</b>
   </p>
  <img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=ff2df7&style=flat" alt="profile views" />
-  <br><br>
 
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
