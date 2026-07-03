@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" alt="Waving Hand" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=700&pause=1200&color=00F5FF&center=true&vCenter=true&width=120&height=55&lines=Hi%2C" alt="Hi Typing" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1200&pause=2500&color=00F5FF&center=true&vCenter=true&width=520&height=55&lines=I'm+MD+Sowrov+Miah" alt="Name Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1200&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+MD+Sowrov+Miah" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=ff2df7&style=flat" alt="profile views" />
 </div>
