@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=300&pause=100&color=FF2DF7&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+MD+Sowrov+Miah" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF2DF7&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+MD+Sowrov+Miah" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=ff2df7&style=flat" alt="profile views" />
 
 </div>
 
