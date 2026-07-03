@@ -3,20 +3,24 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1200&pause=2500&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20MD%20Sowrov%20Miah" alt="Typing SVG" />
   <br>
-  <p>
-    <b>Passionate CSE Student</b> | <b>Future Engineer</b> | <b>Tech Explorer</b>
-  </p>
- <img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=ff2df7&style=flat" alt="profile views" />
+
+  💻 Passionate about <b>Software Development</b> | 🛡️ Enthusiast of <b>Cybersecurity</b> | 🌟 Creator of <b>Impactful Tech</b>
+
+  <br><br>
 
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
   <a href="https://facebook.com/your-facebook-link">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
   <a href="https://wa.me/8801XXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>&nbsp;
+  <a href="https://github.com/rtygfoth-gif">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 ---
 
