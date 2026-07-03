@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=3000&pause=900&color=FF2DF7&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+MD+Sowrov+Miah;Passionate+CSE+Student;Future+Software+Engineer;Code+%7C+Learn+%7C+Build" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=ff2df7&style=flat" alt="profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF2DF7&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+MD+Sowrov+Miah" alt="Typing SVG" />
 
 </div>
 
