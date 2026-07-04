@@ -1,7 +1,7 @@
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+
+<td valign="top" width="60%">
 
 <h2>🟢 About Me</h2>
 
@@ -19,11 +19,11 @@ I am <b>MD Sowrov Miah</b>, an undergraduate <b>CSE Student</b> who is passionat
 
 </td>
 
-<td width="45%" align="center">
+<td valign="middle" align="center" width="40%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 </td>
+
 </tr>
 </table>
-
