@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF99,100:0066FF&height=220&section=header&text=MD%20Sowrov%20Miah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=180&section=header&text=MD%20Sowrov%20Miah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=CSE+Student+%F0%9F%8E%93;Future+Software+Engineer+%F0%9F%9A%80;Programming+%7C+OOP+%7C+Web+Development+%7C+AI;Building+My+Future+With+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=700&lines=CSE+Student;Future+Software+Engineer;Learning+C%2C+Python%2C+Git+%26+GitHub;Passionate+About+Technology" />
 
 <br><br>
 
@@ -10,41 +10,62 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+<img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <br>
+
+<p>
+I am <b>MD Sowrov Miah</b>, an undergraduate <b>Computer Science & Engineering Student</b> who is passionate about programming, technology, and software development.
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td align="center" width="25%">
 
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I am <b>MD Sowrov Miah</b>, an undergraduate <b>Computer Science & Engineering Student</b>. 
-I am passionate about programming, technology, software development, and building a strong future in the tech world.
-</p>
-
-<ul>
-<li>🌱 Currently learning <b>C, Python, Git & GitHub</b></li>
-<li>🎓 Undergraduate <b>CSE Student</b></li>
-<li>💻 Interested in <b>Programming, OOP, Web Development & AI</b></li>
-<li>🚀 Goal: Become a skilled <b>Software Engineer</b></li>
-<li>⚡ Love exploring technology and solving problems</li>
-</ul>
+### 🌱 Learning  
+C, Python, Git & GitHub
 
 </td>
-<td width="42%" align="center">
+<td align="center" width="25%">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### 🎓 Education  
+Undergraduate CSE Student
+
+</td>
+<td align="center" width="25%">
+
+### 💻 Interest  
+Programming, OOP, Web Dev & AI
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 Goal  
+Skilled Software Engineer
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<h2>🛠️ Skills & Tools</h2>
+## 🛠️ Skills & Tools
 
 <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,html,css" />
 
@@ -52,18 +73,18 @@ I am passionate about programming, technology, software development, and buildin
 
 ---
 
+<div align="center">
+
+## 📊 GitHub Analytics
+
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-
-<h3>📊 GitHub Stats</h3>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rtygfoth-gif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </td>
 <td width="50%" align="center">
-
-<h3>🔥 Streak Stats</h3>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rtygfoth-gif&theme=tokyonight&hide_border=true&border_radius=15" />
 
@@ -71,13 +92,9 @@ I am passionate about programming, technology, software development, and buildin
 </tr>
 </table>
 
-<div align="center">
-
 <br>
 
-<h3>💻 Most Used Languages</h3>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtygfoth-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtygfoth-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -85,9 +102,9 @@ I am passionate about programming, technology, software development, and buildin
 
 <div align="center">
 
-<h2>🚀 My Focus</h2>
+## 🚀 My Focus
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">
 <h3>💻</h3>
@@ -103,7 +120,7 @@ I am passionate about programming, technology, software development, and buildin
 </td>
 <td align="center" width="25%">
 <h3>🤖</h3>
-<b>Artificial Intelligence</b>
+<b>AI</b>
 </td>
 </tr>
 </table>
@@ -114,7 +131,7 @@ I am passionate about programming, technology, software development, and buildin
 
 <div align="center">
 
-<h2>🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
