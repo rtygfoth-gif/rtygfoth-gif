@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=180&section=header&text=MD%20Sowrov%20Miah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=700&lines=CSE+Student;Future+Software+Engineer;Learning+C%2C+Python%2C+Git+%26+GitHub;Passionate+About+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=600&lines=CSE+Student;Future+Software+Engineer;Learning+C%2C+Python%2C+Git+%26+GitHub;Passionate+About+Technology" />
 
 <br><br>
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br>
 
@@ -26,34 +26,35 @@ I am <b>MD Sowrov Miah</b>, an undergraduate <b>Computer Science & Engineering S
 
 </div>
 
-<br>
-
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### 🌱 Learning  
 C, Python, Git & GitHub
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### 🎓 Education  
 Undergraduate CSE Student
 
 </td>
-<td align="center" width="25%">
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 ### 💻 Interest  
 Programming, OOP, Web Dev & AI
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### 🚀 Goal  
-Skilled Software Engineer
+Become a Skilled Software Engineer
 
 </td>
 </tr>
@@ -77,53 +78,15 @@ Skilled Software Engineer
 
 ## 📊 GitHub Analytics
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rtygfoth-gif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rtygfoth-gif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<br><br>
 
-</td>
-<td width="50%" align="center">
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=rtygfoth-gif&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rtygfoth-gif&theme=tokyonight&hide_border=true&border_radius=15" />
+<br><br>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtygfoth-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 My Focus
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<h3>💻</h3>
-<b>Programming</b>
-</td>
-<td align="center" width="25%">
-<h3>🧠</h3>
-<b>Problem Solving</b>
-</td>
-<td align="center" width="25%">
-<h3>🌐</h3>
-<b>Web Development</b>
-</td>
-<td align="center" width="25%">
-<h3>🤖</h3>
-<b>AI</b>
-</td>
-</tr>
-</table>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtygfoth-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -151,7 +114,15 @@ Skilled Software Engineer
 
 <div align="center">
 
-<h3>✨ Code. Learn. Build. Repeat. ✨</h3>
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/rtygfoth-gif/rtygfoth-gif/output/snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff99&height=120&section=footer"/>
 
