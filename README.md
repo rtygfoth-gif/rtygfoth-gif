@@ -1,129 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=180&section=header&text=MD%20Sowrov%20Miah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# 👋 Hi, I'm MD Sowrov Miah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=600&lines=CSE+Student;Future+Software+Engineer;Learning+C%2C+Python%2C+Git+%26+GitHub;Passionate+About+Technology" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=rtygfoth-gif&label=Profile%20Views&color=00ff99&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<br>
+### 💻 Undergraduate CSE Student • 🚀 Future Software Engineer
 
 <p>
-I am <b>MD Sowrov Miah</b>, an undergraduate <b>Computer Science & Engineering Student</b> who is passionate about programming, technology, and software development.
+Passionate about programming, software development, artificial intelligence,
+and continuously learning modern technologies to build impactful applications.
 </p>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🌱 Learning  
-C, Python, Git & GitHub
-
-</td>
-<td align="center" width="50%">
-
-### 🎓 Education  
-Undergraduate CSE Student
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 💻 Interest  
-Programming, OOP, Web Dev & AI
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 Goal  
-Become a Skilled Software Engineer
-
-</td>
-</tr>
-</table>
+| 🌱 Currently Learning | 💻 Interests | 🎯 Goal |
+|:---------------------:|:------------:|:-------:|
+| **C • Python • Git • GitHub** | **Programming • OOP • Web Development • AI** | **Become a Professional Software Engineer** |
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🛠️ Skills & Tools
-
-<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,html,css" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rtygfoth-gif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=rtygfoth-gif&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtygfoth-gif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://facebook.com/your-facebook-link">
-<img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://wa.me/8801XXXXXXXXX">
-<img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/rtygfoth-gif/rtygfoth-gif/output/snake.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff99&height=120&section=footer"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
